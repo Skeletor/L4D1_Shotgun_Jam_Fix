@@ -1,4 +1,4 @@
-[L4D1] Shotgun Jam Fix<br><br>
+# [L4D1] Shotgun Jam Fix<br><br>
 When you try to revive a teammate during the shotgun reload action it becomes unable to reload or shoot for a couple seconds. This happens due to poor NextAttack algorithm check for shotguns after the revive attempt.<br><br>
 This fix is made for L4D1 only, L4D2 doesn't have that issue.<br><br>
 
